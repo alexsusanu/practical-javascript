@@ -1,0 +1,6 @@
+V1
+[] place to store todos
+[] display todos
+[] add a todo
+[] edit todo
+[] remove todo
